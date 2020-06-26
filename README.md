@@ -53,4 +53,6 @@ If you want to set this program to run on a schedule, ie: every day when the sto
   <summary>Mac</summary>
   
   [Cron tasks](https://www.youtube.com/watch?v=Q2CNZGEH59Q)
+  
+  I do not own a Mac, so unfortunately you will need to look up any issues you may encounter :(
 </details>
